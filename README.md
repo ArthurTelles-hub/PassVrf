@@ -41,6 +41,5 @@ Esses critérios podem ser expandidos conforme a evolução do projeto.
 - **Python 3.x**
 - Biblioteca padrão do Python (`re`, `string`, etc.)
 
-> Nenhuma biblioteca externa é obrigatória inicialmente.
 
 ---
