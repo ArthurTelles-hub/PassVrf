@@ -1,1 +1,4 @@
 /tests
+pyvenv.cfg
+/bin
+/lib
